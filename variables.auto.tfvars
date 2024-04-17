@@ -1,0 +1,2 @@
+HCLOUD_TOKEN = ""
+PUBLIC_KEY   = ""

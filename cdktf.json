@@ -1,0 +1,11 @@
+{
+  "language": "typescript",
+  "app": "npx ts-node main.ts",
+  "projectId": "93549423-5e41-4ae3-9dc1-c9238f14c063",
+  "sendCrashReports": "false",
+  "terraformProviders": [
+    "hetznercloud/hcloud@~> 1.46"
+  ],
+  "terraformModules": [],
+  "context": {}
+}
